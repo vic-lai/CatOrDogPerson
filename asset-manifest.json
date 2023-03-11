@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CatOrDogPerson/static/css/main.d32341be.css",
+    "main.js": "/CatOrDogPerson/static/js/main.657dc8e2.js",
+    "index.html": "/CatOrDogPerson/index.html",
+    "main.d32341be.css.map": "/CatOrDogPerson/static/css/main.d32341be.css.map",
+    "main.657dc8e2.js.map": "/CatOrDogPerson/static/js/main.657dc8e2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d32341be.css",
+    "static/js/main.657dc8e2.js"
+  ]
+}
